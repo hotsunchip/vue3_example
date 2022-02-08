@@ -6,6 +6,7 @@ import Example_3_8 from "./components/3-8-ReactiveVariable.vue";
 import Example_3_9 from "./components/3-9-EventListenerExample.vue";
 import Example_3_10 from "./components/3-10-Conditional.vue";
 import Example_3_11 from "./components/3-11-LoopVFor.vue";
+import Example_3_12 from "./components/3-12-ComputedProperties.vue";
 </script>
 
 <template>
@@ -15,7 +16,8 @@ import Example_3_11 from "./components/3-11-LoopVFor.vue";
   <!-- <Example_3_8 msg="3-8-ReactiveVariable.vue" /> -->
   <!-- <Example_3_9 msg="3-9-EventListenerExample.vue" /> -->
   <!-- <Example_3_10 msg="3-10-Conditional.vue" /> -->
-  <Example_3_11 msg="3-11-LoopVFor.vue" />
+  <!-- <Example_3_11 msg="3-11-LoopVFor.vue" /> -->
+  <Example_3_12 msg="3-12-ComputedProperties.vue" />
 </template>
 
 <style>
